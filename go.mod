@@ -1,4 +1,4 @@
-module github.com/aya1815/ayaflow-common
+module github.com/gaoyuanzi/gaoyuanzi-common
 
 go 1.17
 
